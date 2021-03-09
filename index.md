@@ -1,3 +1,7 @@
+---
+lesson-example: "https://carpentries.github.io/lesson-example/ "
+---
+
 [About](about.md)
 
 # {{ site.title }}
@@ -8,3 +12,5 @@ Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium dolo
 
 ## Description ##
 {{ site.description }}
+
+See some [examples of our work]({{ page.lesson-example }})
