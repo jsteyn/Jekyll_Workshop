@@ -9,5 +9,5 @@ We gratefully acknowledge funding from the XYZ Founding council, under grant num
 ## Contact us
 
 - Email: [{{ site.email }}](mailto::{{ site.email }})
-- Twitter: [@{{ site.twitter }}](https://twitter.com/{{ site.twitter }})
+- Twitter: [@thecarpentries]( {{ site.twitter }})
  
