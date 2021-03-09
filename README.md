@@ -10,7 +10,7 @@ Repo for learninig how to make websites with Jekyll pages
 3. of 
 4. words
 
-![Carpentries Logo](https://github.com/carpentries/carpentries.org/blob/main/images/TheCarpentries-opengraph.png =100x50)
+![Carpentries Logo](https://github.com/carpentries/carpentries.org/blob/main/images/TheCarpentries-opengraph.png)
 
 Vanilla text may contain *italics* and **bold words**.
 
