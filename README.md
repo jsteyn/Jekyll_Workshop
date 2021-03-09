@@ -1,7 +1,18 @@
 # Jekyll_Workshop
 Repo for learninig how to make websites with Jekyll pages
 
-## Learning Markdown
+# Learning Markdown
+## Second Level Heading
+~~strike through this text~~
+
+### Third level Heading
+
+1. numbered
+2. list
+3. of 
+4. words
+
+![](https://github.com/carpentries/carpentries.org/blob/main/images/TheCarpentries-opengraph.png)
 
 Vanilla text may contain *italics* and **bold words**.
 
@@ -14,3 +25,5 @@ Line breaks are caused by two trailing spaces at the end of a line.
 - Software Carpentry
 - Cata Carpentry
 - Library Carpentry
+
+
