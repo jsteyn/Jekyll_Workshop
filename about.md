@@ -8,5 +8,5 @@ We gratefully acknowledge funding from the XYZ Founding council, under grant num
 
 ## Contact us
 
-- Email: [{{ site.email }}](mailto::{{ site.email}}]
+- Email: [{{ site.email }}](mailto::{{ site.email}})
 - 
