@@ -2,7 +2,7 @@
 lesson-example: "https://carpentries.github.io/lesson-example/ "
 ---
 
-[![Group Website banner](./image/site_banner.png)](https://jsteyn.github.io/Jekyll_Workshop/)
+{% include banner.md %}
 
 [About](about.md)
 
