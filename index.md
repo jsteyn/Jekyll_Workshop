@@ -17,6 +17,4 @@ Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium dolo
 
 See some [examples of our work]({{ page.lesson-example }})
 
-{% include mistake.md %}
-
 {% include contact.md %}
