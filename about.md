@@ -13,4 +13,4 @@ We gratefully acknowledge funding from the XYZ Founding council, under grant num
 ## Cite us
 You can cite the project as
 
-> *The Carpentries*
+*The Carpentries*
