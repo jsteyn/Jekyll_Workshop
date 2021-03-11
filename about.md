@@ -10,7 +10,7 @@ layout: page
 ## Funders
 We gratefully acknowledge funding from the XYZ Founding council, under grant number '123'.
 
-## Cit us
+## Cite us
 You can cite the project as
 
-> *The Carpentries
+> *The Carpentries*
