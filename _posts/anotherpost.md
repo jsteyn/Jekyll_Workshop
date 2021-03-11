@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Enough has been said
-author: Dr James Barry
+title: "Enough has been said"
+author: "Dr James Barry"
 date: 1852-05-16
 ---
 
