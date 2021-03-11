@@ -1,7 +1,7 @@
 ---
 lesson-example: "https://carpentries.github.io/lesson-example/ "
 layout: default
-title: "Learning how to build websites with Jekyll
+title: "Learning how to build websites with Jekyll"
 ------
 
 [About](about.md)
