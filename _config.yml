@@ -9,5 +9,5 @@ team_members: [
   {name: "Albert Hamilton", role: "editor", start_date: "2017-12-01"},
 ]
 collectons:
-    -posts:
+    posts:
         output:true
