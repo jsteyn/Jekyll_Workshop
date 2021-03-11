@@ -1,7 +1,8 @@
 ---
-lesson-example: "https://carpentries.github.io/lesson-example/ "
-layout: default
+layout: page
 ---
+
+# About
 
 ## Project
 {{ site.description }}
@@ -9,4 +10,7 @@ layout: default
 ## Funders
 We gratefully acknowledge funding from the XYZ Founding council, under grant number '123'.
 
- 
+## Cit us
+You can cite the project as
+
+> *The Carpentries
