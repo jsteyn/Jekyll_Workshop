@@ -16,3 +16,9 @@ The project is lead by {{ lead.name }}.
 More details about the project are available from [About Page](about.md)
 
 See some [examples of our work]({{ page.lesson-example }})
+
+## Blog Posts
+
+{% for posts in site.posts %}
+- {{ posts.date | date_to_string }}: {{ posts.title }}
+{% endfor %}
