@@ -19,6 +19,6 @@ See some [examples of our work]({{ page.lesson-example }})
 
 ## Blog Posts
 
-{% for posts in site.posts %}
-- {{ posts.date | date_to_string }}: {{ posts.title }}
+{% for post in site.posts %}
+- {{ post.date | date_to_string }}: {{ post.title }}
 {% endfor %}
